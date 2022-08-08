@@ -27,6 +27,9 @@ class Test extends MY_Controller {
     public function mmm() {
         
     }
+    public function mmm1() {
+        
+    }
 
     public function test4_branch_1() {
         //오아데이 확인 - (추가) 2020/07/31 오아데이일 경우 상품상세페이지에서 레드클럽 혜택 영역 비노출 처리 (오아데이에는 레드클럽 혜택 미적용한다)
