@@ -79,4 +79,8 @@ class Test extends MY_Controller {
         33333333333333333333
         3333333333333333333333333    
     }
+
+    public function bb() {
+        
+    }
 }
