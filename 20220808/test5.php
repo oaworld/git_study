@@ -80,11 +80,7 @@ class Test extends MY_Controller {
         3333333333333333333333333    
     }
 
-<<<<<<< HEAD
     public function aa() {
-=======
-    public function bb() {
->>>>>>> test5-branch-6
         
     }
 }
