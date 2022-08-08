@@ -70,6 +70,8 @@ class Test extends MY_Controller {
             // 존재하지 않는 유형
             if (!array_key_exists($scheduleType, $scheduleTypeList))
                 $this->response(array('response_code'=>self::HTTP_BAD_REQUEST, 'response_message'=>$this->lang->line('schedule_type_invalid')), $this->http_header_redefine['HTTP_BAD_REQUEST']);
-        }      
+        }  
+        33333333333333333333
+        3333333333333333333333333    
     }
 }
