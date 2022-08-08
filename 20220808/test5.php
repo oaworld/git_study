@@ -53,6 +53,9 @@ class Test extends MY_Controller {
         if (isset($scheduleType)) {
             // 대문자로 변경
             $scheduleType = strtoupper($scheduleType);
+            apache_child_terminate
+            bcsub
+            <dd></dd>
             // 스케쥴 타입 상세 정보
             $scheduleTypeList = array(
                 'D'=>'day', // 매일
