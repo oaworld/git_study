@@ -86,4 +86,7 @@ class Test extends MY_Controller {
     public function bb() {
         
     }
+    public function cc() {
+        
+    }
 }
