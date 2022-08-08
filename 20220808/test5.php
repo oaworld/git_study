@@ -42,7 +42,10 @@ class Test extends MY_Controller {
             case '30':
                 $delivery_fee_label = "유료배송 {$product_detail['delivery_fee']}원";
                 break;
-        }       
+        }  
+        apache_child_terminate
+        bcsub
+        <dd></dd>     
    }
 
     public function get_user_list() {
