@@ -96,4 +96,7 @@ class Test extends MY_Controller {
     public function mm() {
         
     }
+    public function mmm1() {
+        
+    }
 }
