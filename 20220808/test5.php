@@ -54,6 +54,8 @@ class Test extends MY_Controller {
          $this->response(array('response_code'=>self::HTTP_BAD_REQUEST, 'response_message'=>$this->lang->line('todo_title_invalid')), $this->http_header_redefine['HTTP_BAD_REQUEST']);
          444444444444444444444444444444444444
          4444444444444444444444444444444
+
+         6666666666666666666666666666
         // 반복 유형이 있을 경우
         if (isset($scheduleType)) {
             // 대문자로 변경
