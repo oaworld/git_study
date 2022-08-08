@@ -20,6 +20,9 @@ class Test extends MY_Controller {
         parent::__construct();
         // 디비 연결
         $this->load->database();
+        // 1
+        // 2
+        // 3
     }
 
 
