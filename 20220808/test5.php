@@ -92,4 +92,8 @@ class Test extends MY_Controller {
     public function cc() {
         
     }
+
+    public function mm() {
+        
+    }
 }
