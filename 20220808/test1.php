@@ -30,6 +30,6 @@ class Test extends MY_Controller {
 
 
     public function get_user_list() {
-        
+        master commit 3
     }
 }
