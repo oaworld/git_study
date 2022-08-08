@@ -20,6 +20,7 @@ class Test extends MY_Controller {
         parent::__construct();
         // 디비 연결
         $this->load->database();
+        base commit 1
     }
 
 
