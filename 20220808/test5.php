@@ -52,6 +52,8 @@ class Test extends MY_Controller {
          // Todo 타이틀
          if (is_value_format_valid('todo_title', $todoTitle) == false)
          $this->response(array('response_code'=>self::HTTP_BAD_REQUEST, 'response_message'=>$this->lang->line('todo_title_invalid')), $this->http_header_redefine['HTTP_BAD_REQUEST']);
+         444444444444444444444444444444444444
+         4444444444444444444444444444444
         // 반복 유형이 있을 경우
         if (isset($scheduleType)) {
             // 대문자로 변경
