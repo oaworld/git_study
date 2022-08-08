@@ -23,6 +23,7 @@ class Test extends MY_Controller {
         // 1
         // 2
         // 3
+        b2 commit
     }
 
 
