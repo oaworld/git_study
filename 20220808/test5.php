@@ -25,7 +25,7 @@ class Test extends MY_Controller {
         $this->load->database();
     }
     public function mmm() {
-        // 해해해해해해해해해해해
+        
     }
     public function mmm1() {
         
